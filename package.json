@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "pm2": "^5.4.2",
     "yarn": "^1.22.22",
     "axios": "^1.3.3",
     "baileys": "git+https://lyfe00011-admin@bitbucket.org/lyfe00011/baileys.git",
